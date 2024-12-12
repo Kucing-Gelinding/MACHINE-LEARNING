@@ -1,7 +1,7 @@
 # CUNNY - AI Learning Navigator for Youth
 
 ## Documentation
-- **Google Drive Folder**: [CUNNY Project Files](https://drive.google.com/drive/folders/1wgDC9oHk2Q-hgNxIuz1sYaNgYLpgnogx?usp=sharing)
+- **Google Drive Folder**: [CUNNY Project Files](https://drive.google.com/drive/folders/1ZJyqlNGHTrLkvtDDl1ZWVSoC7Xss_o8e?usp=drive_link)
   - This folder contains all necessary resources and files required for the CUNNY project including datasets, trained models, and additional documentation.
 
 ### *Project Folder Structure*
